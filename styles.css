@@ -1,0 +1,23 @@
+body {
+    margin: 30px;
+}
+
+h1 {
+color: #225622;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#Hauptseite {
+background-color: grey;
+height: 584px;
+width: 975px;
+border-style: solid;
+border-width: 5px;
+border-color: #225622;
+margin: 0 auto;
+}
+#videoElement {
+    background-color: grey;
+    height: 584px;
+    width: 975px;
+}
